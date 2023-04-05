@@ -5,5 +5,12 @@ Java project, that demostrate Git and GitHub usage "Dice"
 
 *Plan*
 
-- [x] Izveidot Git GitHub un pushot jaunu projektu
-- [ ] Dod kadam pieslegties
+### **Darāmo darbu saraksts**
+- [x] Uzsākta lokālā Java projekta versionēšana ar Git
+- [x] Izveidots GitHub konts
+- [x] Izveidota GitHub krātuve
+- [x] Lokālais Jav projekts izvietots GitHub
+- [ ] Papildinātās GitHub krātuves saturs iegūts lokālai lietošanai
+- [ ] Projektam pieslēdzies vēl viens programmētājs un izmēģināta kopdarbošanās
+- [ ] Projektā ieviests jauns zars (branch)
+- [ ] Sapludināti zari un novērsts merge konflikts
