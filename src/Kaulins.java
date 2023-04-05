@@ -8,6 +8,7 @@ public class Kaulins {
 		for(int i=1; i<=reizes; i++) {
 			skaitlis = rand.nextInt(6)+1;	
 			System.out.println("Uzkrita skaitlis "+skaitlis);
+			System.out.println("Cauuu");
 		}
 	}
 	
